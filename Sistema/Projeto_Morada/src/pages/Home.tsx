@@ -22,7 +22,7 @@ const Home: React.FC = () => {
         subtitle="Uma igreja que ama a Deus, sua Palavra e seu povo."
         buttonText="Conheça Nossos Cultos"
         buttonLink="/cultos"
-        imageUrl="https://github.com/LuizinVilas/Projeto-Igreja-Favan/blob/main/imagens/Home-Banner.jpg?raw=true"
+        imageUrl="https://github.com/FelipeG09/Projeto-Morada-Igreja-Batista/blob/main/imagens/Home-Banner.jpg?raw=true"
       />
 
       {/* Welcome Section */}
@@ -53,7 +53,7 @@ const Home: React.FC = () => {
             </div>
             <div className="rounded-lg overflow-hidden shadow-md">
               <img
-                src=""
+                src="https://github.com/FelipeG09/Projeto-Morada-Igreja-Batista/blob/main/imagens/Morada-Banner.png?raw=true"
                 alt="Membros da Igreja"
                 className="w-full h-full object-cover"
               />
@@ -141,7 +141,7 @@ const Home: React.FC = () => {
         className="py-20 bg-cover bg-center relative"
         style={{
           backgroundImage:
-            "url('https://images.pexels.com/photos/2258536/pexels-photo-2258536.jpeg')",
+            "url('https://github.com/FelipeG09/Projeto-Morada-Igreja-Batista/blob/main/imagens/Contacts-Banner2.png?raw=true')",
         }}
       >
         <div className="absolute inset-0 bg-primary opacity-80"></div>

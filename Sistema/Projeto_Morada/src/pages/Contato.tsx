@@ -9,7 +9,7 @@ const Contato: React.FC = () => {
       <Hero
         title="Entre em Contato"
         subtitle="Estamos aqui para responder suas dúvidas e receber seus pedidos de oração."
-        imageUrl="https://github.com/LuizinVilas/Projeto-Igreja-Favan/blob/main/imagens/Contacts-Banner2.png?raw=true"
+        imageUrl="https://github.com/FelipeG09/Projeto-Morada-Igreja-Batista/blob/main/imagens/Contacts-Banner2.png?raw=true"
       />
 
       <section className="section bg-white">
