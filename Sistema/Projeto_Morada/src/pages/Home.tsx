@@ -141,7 +141,7 @@ const Home: React.FC = () => {
         className="py-20 bg-cover bg-center relative"
         style={{
           backgroundImage:
-            "url('https://github.com/FelipeG09/Projeto-Morada-Igreja-Batista/blob/main/imagens/Contacts-Banner2.png?raw=true')",
+            "url('https://github.com/FelipeG09/Projeto-Morada-Igreja-Batista/blob/main/imagens/Home-Banner2.jpg?raw=true')",
         }}
       >
         <div className="absolute inset-0 bg-primary opacity-80"></div>
